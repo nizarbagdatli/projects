@@ -1,8 +1,9 @@
 # 🎮 Coin Hunter X
 
-Coin Hunter X is a simple 2D game developed using Python and Pygame.
+Coin Hunter X is a 2D arcade-style game developed using Python and Pygame.
 
-The player collects coins while avoiding enemies. The game includes a scoring system, lives, and increasing difficulty.
+The player controls a character that collects coins while avoiding enemies.  
+The game features a scoring system, lives, and increasing difficulty as the level progresses.
 
 ---
 
@@ -13,7 +14,7 @@ The player collects coins while avoiding enemies. The game includes a scoring sy
 - Enemy collision detection  
 - Lives system  
 - Score tracking  
-- Increasing difficulty over time  
+- Increasing difficulty (level system)  
 
 ---
 
